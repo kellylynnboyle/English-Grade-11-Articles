@@ -69,6 +69,23 @@ Scaffolds the week; the student does all graded writing himself.
 > summary/annotations/questions. If nothing needs improving, do nothing
 > and report no change.
 
+## Model selection
+
+Use the lightest model that does the task well:
+
+- **Haiku** — mechanical steps: file copies, Notion row updates, commit
+  bookkeeping, checklist PDF renders from a fixed template.
+- **Sonnet** — the default for the weekly runs: news search and
+  candidate picking, pick-sheet writing, MLA mini-lessons, slide
+  content.
+- **Fable/Opus** — judgment-heavy work: process redesign, rubric
+  analysis, anything where nuance about the student's learning matters.
+
+When spawning subagents, pass the matching `model` explicitly. The
+session's own model is set by the person running it (`/model` in the
+CLI, or the model picker on the claude.ai scheduled task) — pick
+Sonnet there for routine weeks.
+
 ## Ground rules baked into both routines
 
 - The student writes the summary, annotations, and questions — routines
