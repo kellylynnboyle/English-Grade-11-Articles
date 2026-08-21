@@ -7,10 +7,15 @@ This folder holds one file per weekly news-article annotation assignment
 
 - **Sunday night** — pick the article (2–3 candidates, choose one),
   print it, do the first read, and draft the write-up from the template.
-- **Monday–Thursday** — second read, finish annotating the hard copy,
+- **Monday–Wednesday** — second read, finish annotating the hard copy
+  (three-mark system: box stats, underline claims, circle vocab),
   polish the summary and questions, copy into the Google Doc (MLA).
+  Treat Wednesday night as the finish line: everything done, plus a
+  60-second phone recording of the presentation, watched once.
+- **Thursday** — buffer day, not crunch day.
 - **Friday** — attach the Google Doc in Schoology, hand in the annotated
-  hard copy, and present to the class.
+  hard copy, present to the class, then log the points earned in the
+  Notion Weekly Article Log.
 
 ## Workflow
 

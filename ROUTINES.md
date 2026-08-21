@@ -24,8 +24,11 @@ Scaffolds the week; the student does all graded writing himself.
 > (SoCal climate/heat/wildfires, social-media and tech regulation
 > affecting teens, courts, science, local news). Skip articles already
 > logged. Present candidates as a lettered list (A, B, C, ...) with
-> one-line reasons. (2) List who/what/why/how/should question angles per
-> candidate. Also teach 1–2 MLA formatting concepts per week, working
+> one-line reasons. Flag any candidate that continues a story covered in
+> an earlier week ("story arc — follow-up on week of ___"); roughly
+> every fourth week, recommend the non-animation candidate as the top
+> pick so the semester shows range. (2) List who/what/why/how/should
+> question angles per candidate. Also teach 1–2 MLA formatting concepts per week, working
 > through docs/mla-lessons.md in order — check off each lesson taught
 > and tie it to the week's article when possible. (3) Make a one-page
 > Article Pick Sheet PDF (lettered list, MLA mini-lesson box,
@@ -38,8 +41,12 @@ Scaffolds the week; the student does all graded writing himself.
 > only the Part 1 title line (headline - from Source) and URL — the
 > template matches the teacher's example; leave all student sections
 > blank. (6) Add the week's row to the Notion "Weekly Article Log".
-> (7) Commit and push. (8) Send a phone notification with the lettered
-> candidate list, recommendation, Gamma link, print/annotate reminder,
+> Also copy articles/PRESENTATION-SCRIPT-TEMPLATE.md's five-beat
+> structure into the week's file so the student fills in their script.
+> (7) Check last week's Notion row: if Points Earned is empty, include a
+> "log last week's points" reminder in the notification. (8) Commit and
+> push. (9) Send a phone notification with the lettered candidate list,
+> recommendation, MLA mini-lesson, Gamma link, print/annotate reminder,
 > and Friday deadline.
 
 ## 2. Process Improvement Loop (self-paced)

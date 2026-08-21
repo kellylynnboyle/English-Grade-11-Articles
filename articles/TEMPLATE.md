@@ -49,10 +49,20 @@ could..." Short and direct is fine.)*
 
 ### Annotations — 2 pts
 
-*(What you marked on the printed hard copy: key facts, statistics,
-quotes, unfamiliar vocabulary, the author's argument or bias. Annotate
-FULLY — marking throughout the article, not just the first page. Jot
-your margin notes here too so they feed your summary.)*
+*(Use the three-mark system so the hard copy fills up fast and looks
+systematic: **box** statistics and numbers, **underline** claims and
+key facts, **circle** unfamiliar words and define them in the margin.
+Mark throughout the article, not just the first page. Jot your margin
+notes here too so they feed your summary.)*
+
+Boxed stats:
+-
+
+Underlined claims:
+-
+
+Circled vocab + margin definitions:
+-
 
 -
 -
@@ -62,6 +72,8 @@ your margin notes here too so they feed your summary.)*
 ### Presentation plan — 5 pts (half the grade!)
 
 - **Hook** — why you picked this article:
+- **Story arc** — connects to an article from an earlier week? Say so
+  ("last month I told you X — here's what happened next"):
 - **Summary in your own words** (don't read the slide):
 - **2–3 key facts/stats to hit:**
 - **Your questions to pose to the class:**
@@ -69,7 +81,9 @@ your margin notes here too so they feed your summary.)*
 - You're talking to your classmates — keep it conversational, like
   explaining the story to a friend, and end by throwing your questions
   to the room
-- Practice it aloud at least once before Friday
+- **Wednesday night:** record a 60-second run-through on your phone,
+  watch it once, fix the one thing that bugs you — Thursday is buffer,
+  not crunch
 
 ### Submission checklist
 
@@ -81,4 +95,7 @@ your margin notes here too so they feed your summary.)*
 - [ ] Summary is at least one full paragraph, in my own words *(3 pts w/ questions)*
 - [ ] At least 2 genuine questions in Questions/Comments
 - [ ] Google Doc attached to the Schoology assignment
+- [ ] Everything done by Wednesday night — Thursday is buffer
+- [ ] 60-second phone recording made and watched once
 - [ ] Presentation practiced and ready for Friday *(5 pts)*
+- [ ] Last week's points logged in the Notion Weekly Article Log
