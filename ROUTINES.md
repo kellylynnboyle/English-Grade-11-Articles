@@ -9,26 +9,35 @@ tasks on claude.ai/code with the prompts below.
 Scaffolds the week; the student does all graded writing himself.
 
 > Sunday-night setup for the weekly English 11 news-article annotation
-> assignment (due Friday). Scaffolding run for a 16-year-old 11th grader
+> assignment (due Friday). Scaffolding run for a 17-year-old 11th grader
 > in Southern California whose main interest is animation (Animation III
 > class) — the student writes the summary, annotations, and questions
-> himself; do NOT write those for him. Steps: (1) Search current
-> world/local news — no celebrity fluff or sports — and pick 2–3
-> candidates from reputable outlets (AP, NPR, Reuters, LA Times, LAist,
-> Hollywood Reporter, Variety, Cartoon Brew, Animation Magazine),
-> favoring hard news connected to animation/creative industries, plus
-> one non-animation candidate; skip articles already logged. (2) List
-> who/what/why/how/should question angles per candidate. (3) Make a
-> one-page Article Pick Sheet PDF (pick + why, URL with
-> print-from-source instructions, best-effort MLA entry flagged for
-> verification, question starters, runners-up, checklist — original
-> writing only, never the article's text) and send it. (4) Generate a
-> one-card Gamma presentation as the class-presentation visual and share
-> the edit link. (5) Copy articles/TEMPLATE.md to
-> articles/YYYY-MM-DD-short-title.md filling in only the MLA entry and
-> heading. (6) Add the week's row to the Notion "Weekly Article Log".
-> (7) Commit and push. (8) Send a phone notification with the pick,
-> runners-up, Gamma link, and Friday deadline reminder.
+> himself; do NOT write those for him. Steps: (1) Find topics using the
+> Parallel system tools first (Parallel Search MCP if enabled in the
+> chat, otherwise the Parallel Task MCP; WebSearch only as fallback).
+> Pick 3–5 candidates of current world/local hard news — no celebrity
+> fluff or sports — from reputable outlets (AP, NPR, Reuters, LA Times,
+> LAist, Hollywood Reporter, Variety, Cartoon Brew, Animation Magazine).
+> Required mix: at least one animation/creative-industry story (AI in
+> animation/VFX, Animation Guild labor, studio/streaming economics, game
+> industry) and the rest chosen for Southern California teen relevance
+> (SoCal climate/heat/wildfires, social-media and tech regulation
+> affecting teens, courts, science, local news). Skip articles already
+> logged. Present candidates as a lettered list (A, B, C, ...) with
+> one-line reasons. (2) List who/what/why/how/should question angles per
+> candidate. (3) Make a one-page Article Pick Sheet PDF (lettered list,
+> top recommendation + why, URL with print-from-source Ctrl+P
+> instructions for the annotated hard copy, question starters,
+> checklist — original writing only, never the article's text) and send
+> it. (4) Generate a one-card Gamma presentation for the top pick as the
+> class-presentation visual and share the edit + export links. (5) Copy
+> articles/TEMPLATE.md to articles/YYYY-MM-DD-short-title.md filling in
+> only the Part 1 title line (headline - from Source) and URL — the
+> template matches the teacher's example; leave all student sections
+> blank. (6) Add the week's row to the Notion "Weekly Article Log".
+> (7) Commit and push. (8) Send a phone notification with the lettered
+> candidate list, recommendation, Gamma link, print/annotate reminder,
+> and Friday deadline.
 
 ## 2. Process Improvement Loop (self-paced)
 
