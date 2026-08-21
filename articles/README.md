@@ -3,6 +3,15 @@
 This folder holds one file per weekly news-article annotation assignment
 (see the [assignment steps](#assignment-steps) below).
 
+## Weekly Cadence
+
+- **Sunday night** — pick the article (2–3 candidates, choose one),
+  print it, do the first read, and draft the write-up from the template.
+- **Monday–Thursday** — second read, finish annotating the hard copy,
+  polish the summary and questions, copy into the Google Doc (MLA).
+- **Friday** — attach the Google Doc in Schoology, hand in the annotated
+  hard copy, and present to the class.
+
 ## Workflow
 
 1. Copy `TEMPLATE.md` to a new file named `YYYY-MM-DD-short-title.md`
