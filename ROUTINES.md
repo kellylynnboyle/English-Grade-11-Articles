@@ -25,7 +25,10 @@ Scaffolds the week; the student does all graded writing himself.
 > affecting teens, courts, science, local news). Skip articles already
 > logged. Present candidates as a lettered list (A, B, C, ...) with
 > one-line reasons. (2) List who/what/why/how/should question angles per
-> candidate. (3) Make a one-page Article Pick Sheet PDF (lettered list,
+> candidate. Also teach 1–2 MLA formatting concepts per week, working
+> through docs/mla-lessons.md in order — check off each lesson taught
+> and tie it to the week's article when possible. (3) Make a one-page
+> Article Pick Sheet PDF (lettered list, MLA mini-lesson box,
 > top recommendation + why, URL with print-from-source Ctrl+P
 > instructions for the annotated hard copy, question starters,
 > checklist — original writing only, never the article's text) and send
