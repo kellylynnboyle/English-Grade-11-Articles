@@ -55,7 +55,9 @@ Scaffolds the week; the student does all graded writing himself.
 > articles/WRITING-CHECKLIST.md, fill in the article title and week,
 > render it as a one-page printable PDF, and send it. Update the week's
 > Notion row (Article Title, Source, URL) and the week's file heading.
-> The checklist guides the student's writing — never fill in his
+> The checklist is a rubric inspection — every box maps to points
+> (annotations 2, summary/questions 3 incl. grammar and MLA format,
+> presentation 5). It verifies the student's work; never fill in his
 > summary, questions, or script.
 
 ## 3. Process Improvement Loop (self-paced)

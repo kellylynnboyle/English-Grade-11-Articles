@@ -1,52 +1,74 @@
-# Essay Check-Off Sheet
+# Points Check-Off Sheet
 
-Work top to bottom, checking boxes as you go. When every box is
-checked, the assignment is done — no guessing. (Each week's run copies
-this sheet with the article title filled in.)
+This is not a to-do plan — it's the final inspection. Go down the list
+before submitting; every unchecked box is points you're handing back.
+Grader's mindset: "Would the teacher mark this off?"
 
 **Article:** ______________________________________________
 **Week of:** ____________  **Due:** Friday
 
-## 1. Read (Sunday–Monday)
+---
 
-- [ ] Printed the article from the source page (Ctrl+P)
-- [ ] First read: no pen, just read it through
-- [ ] Second read with the three-mark system:
-  - [ ] **Boxed** every statistic and number
-  - [ ] **Underlined** the main claims and key facts
-  - [ ] **Circled** unfamiliar words + wrote a definition in the margin
-- [ ] Marks appear on every page, not just page one
+## Annotations — worth 2 points
 
-## 2. Plan the summary (Monday–Tuesday)
+- [ ] Hard copy is marked on EVERY page, not just page one
+- [ ] Statistics/numbers are boxed
+- [ ] Main claims and key facts are underlined
+- [ ] Unfamiliar words are circled WITH definitions written in the margin
+- [ ] The marking adds up to more than a paragraph's worth of notes
+- [ ] A stranger flipping through it could tell what the article is about
+      from my notes alone
 
-- [ ] Picked the 5–6 boxed/underlined items that matter most
-- [ ] Can answer in one sentence each: What happened? Where? Who's
-      involved? What did officials/people do? What happens next?
-- [ ] Know the single most important fact (that's your first sentence)
+## Summary + Questions — worth 3 points
 
-## 3. Draft (Tuesday–Wednesday)
+**Content:**
+- [ ] Title is exactly: article headline + "- from [News Source]"
+- [ ] Article URL appears under the title
+- [ ] Summary is at least one FULL paragraph
+- [ ] Every fact in the summary is actually in the article (no guessing,
+      no mixing in things I heard elsewhere)
+- [ ] Names, numbers, and places are spelled/stated exactly as the
+      article has them
+- [ ] 100% my own words — no sentence lifted or lightly reworded from
+      the article
+- [ ] At least 2 lines in Questions/Comments end in a question mark
+- [ ] My questions are about THIS article (not generic)
 
-- [ ] Title line = article headline + "- from [Source]", URL underneath
-- [ ] Summary is at least one full paragraph
-- [ ] Every sentence is in MY words — nothing copied from the article
-- [ ] Read the paragraph out loud once; fixed anything that sounded
-      like a robot or a news anchor instead of me
-- [ ] Questions/Comments section: at least 2 lines end in a question
-      mark, plus any "They should..." suggestions I actually believe
+**Grammar & mechanics:**
+- [ ] Read aloud once — no sentence made me stumble
+- [ ] No run-on sentences or fragments
+- [ ] Verb tense is consistent (news summaries: present or past — pick
+      one and stay there)
+- [ ] Capitalization: proper nouns capped, no random caps
+- [ ] Punctuation checked: commas, apostrophes (its/it's), end marks
+- [ ] Spelling checked — including the ones spellcheck misses
+      (their/there, affect/effect)
 
-## 4. Format the Google Doc
+**MLA / citation format:**
+- [ ] Header top right of every page: Last name + page number
+- [ ] Heading block top left: my name / teacher's name / class and
+      period / date submitted — double-spaced
+- [ ] Times New Roman, 12 pt, double-spaced, 1" margins everywhere
+- [ ] Title line capitalized headline-style (first, last, and principal
+      words capped; small connector words lowercase)
+- [ ] Side-by-side with the teacher's example: mine matches
 
-- [ ] Header top right: Last name + page number (every page)
-- [ ] Heading block top left: my name / teacher / class + period / date
-- [ ] Times New Roman 12, double-spaced, 1" margins
-- [ ] Matches the teacher's example side by side
+## Presentation — worth 5 points (half the grade)
 
-## 5. Submit & prep (Wednesday night = finish line)
+- [ ] I can say all five beats without reading: hook → what happened →
+      the number → why it matters → my questions
+- [ ] The slide shows the same beats (title, 3 bullets, stat, questions)
+      and I talk OVER it, not read FROM it
+- [ ] I cite the source out loud ("This is from ___, published ___")
+- [ ] My two questions are memorized and I end by asking the class
+- [ ] Timed under two minutes
+- [ ] 60-second phone recording made, watched, one fix applied
+
+## Final gate
 
 - [ ] Google Doc attached to the Schoology assignment
-- [ ] Annotated hard copy in my backpack for Friday
-- [ ] Five-beat script blanks filled in (hook, what happened, the
-      number, why it matters, my questions)
-- [ ] 60-second phone recording made and watched once
-- [ ] Thursday: buffer only — nothing left but small fixes
-- [ ] Friday after class: points logged in the Notion tracker
+- [ ] Annotated hard copy is physically in my backpack
+- [ ] Nothing above is unchecked
+
+**Score prediction:** ___ / 10 — if that isn't 10, the unchecked boxes
+above say exactly where the missing points are.
