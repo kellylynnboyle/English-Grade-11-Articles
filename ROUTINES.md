@@ -49,7 +49,16 @@ Scaffolds the week; the student does all graded writing himself.
 > recommendation, MLA mini-lesson, Gamma link, print/annotate reminder,
 > and Friday deadline.
 
-## 2. Process Improvement Loop (self-paced)
+## 2. On Article Selection (triggered when the pick is chosen)
+
+> When the week's article is selected from the lettered list, copy
+> articles/WRITING-CHECKLIST.md, fill in the article title and week,
+> render it as a one-page printable PDF, and send it. Update the week's
+> Notion row (Article Title, Source, URL) and the week's file heading.
+> The checklist guides the student's writing — never fill in his
+> summary, questions, or script.
+
+## 3. Process Improvement Loop (self-paced)
 
 > Review the workflow artifacts (repo docs/template/tools, Notion Weekly
 > Article Log, the Sunday routine prompt, pick-sheet PDF and one-slide
